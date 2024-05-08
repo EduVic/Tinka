@@ -1,0 +1,2 @@
+# Tinka
+Numeros al azar
